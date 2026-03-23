@@ -26,30 +26,30 @@ Immersive Music, New Interfaces for Musical Expression, Real-world applications
 
 ## Education
 
-`September 2023 - November 2024`
+`Sep 2023 - Nov 2024`
 __Queen Mary University of London__
 
-`August 2019 - June 2023`
+`Aug 2019 - June 2023`
 __American University of Beirut__
 
 ## Occupation
 
-`April  2025 – current`
+`Apr 2025 – current`
 __Roland Future Design Lab__, London
 
 - Data Scientist and Researcher
 
-`June 2024 – April 2025`
+`June 2024 – Apr 2025`
 __Roland Europe Group__, London
 
 - Product Specialist
 
-`June 2024 – April 2025`
+`June 2024 – Apr 2025`
 __Roland Europe Group__, London
 
 - Product Specialist
 
-`June 2024 – April 2025`
+`June 2024 – Apr 2025`
 __Roadie Music__, Beirut
 
 - Junior Product Manager
