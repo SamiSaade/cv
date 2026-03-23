@@ -45,11 +45,6 @@ __Roland Europe Group__, London
 - Product Specialist
 
 `June 2024 – Apr 2025`
-__Roland Europe Group__, London
-
-- Product Specialist
-
-`June 2024 – Apr 2025`
 __Roadie Music__, Beirut
 
 - Junior Product Manager
