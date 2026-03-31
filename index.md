@@ -6,7 +6,7 @@ title: Sami Saade's CV
 Engineer, Researcher, Musician 
 
 <div id="webaddress">
-<a href="sami.saade01@outlook.com">sami.saade01@outlook.com</a>
+<a href="mailto:sami.saade01@outlook.com">sami.saade01@outlook.com</a>
 </div>
 
 
